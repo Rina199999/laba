@@ -11,4 +11,5 @@ namespace func {
 	void edit(SportMatches* arr);
 	void read(SportMatches** arr, int* n);
 	void removeElement(SportMatches* arr, int& n, int index);
+	void addElemement(SportMatches*& arr, int& n, const SportMatches& newMatch);
 }

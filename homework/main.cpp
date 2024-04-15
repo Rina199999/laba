@@ -11,7 +11,7 @@ int main() {
     int stop = 0;
     while (stop != 1) {
         int key = 0;
-        cout << "1-create, 2-read, 3-print, 4-find, 5-clear file, 6-edit, 7-exit" << endl;
+        cout << "1-create, 2-read, 3-print, 4-find, 5-clear file, 6-edit, 7-add element, 8-exit" << endl;
         ch(&key);
         switch (key) {
         case 1:
@@ -56,7 +56,25 @@ int main() {
             }
             break;
         }
-        case 7:
+        case 7: {
+            SportMatches newMatch;
+            cout << "Enter new team name: ";
+            string teamName;
+            cin >> teamName;
+            newMatch.setName(teamName);
+            cout << "Enter country: ";
+            string country;
+            cin >> country;
+            newMatch.setCountry(country);
+            cout << "Enter number of players: ";
+            int numberOfPlayers;
+            cin >> numberOfPlayers;
+            newMatch.setNumber(numberOfPlayers);
+            addElemement(arr, n, newMatch);
+            save(arr, n);
+            break;
+        }
+        case 8:
             stop = 1;
             break;
         default:

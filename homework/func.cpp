@@ -147,13 +147,16 @@ void func::removeElement(SportMatches* arr, int& n, int index) {
         return;
     }
 
-    // Сдвигаем элементы влево, начиная с индекса index
     for (int i = index; i < n - 1; ++i) {
         arr[i] = arr[i + 1];
     }
 
-    // Уменьшаем размер массива
     --n;
+    SportMatches* newArr = new SportMatches[n];
+    for (int i = 0; i < n; ++i)
+        newArr[i] = arr[i];
+    delete[] arr;
+    arr = newArr;
 }
 void func::edit(SportMatches* match) {
     std::string newName;
@@ -164,5 +167,13 @@ void func::edit(SportMatches* match) {
 
     std::cout << "Match information updated successfully." << std::endl;
 }
-
+void func::addElemement(SportMatches*& arr, int& n, const SportMatches& newMatch) {
+    SportMatches* newArr = new SportMatches[n + 1];
+    for (int i = 0; i < n; ++i)
+        newArr[i] = arr[i];
+    newArr[n] = newMatch;
+    ++n;
+    delete[] arr;
+    arr = newArr;
+}
 
