@@ -36,7 +36,6 @@ istream& operator>>(std::istream& in, SportMatches& match) {
     return in;
 }
 
-// Перегрузка оператора вывода для класса SportMatches
 ostream& operator<<(std::ostream& out, const SportMatches& match) {
     out << "Team Name: " << match._teamname << std::endl;
     out << "Country: " << match._country << std::endl;

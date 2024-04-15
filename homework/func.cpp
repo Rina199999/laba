@@ -141,7 +141,7 @@ void func::find(SportMatches* arr, int* n, int nn) {
         break;
     }
 }
-void func::removeElement(SportMatches* arr, int& n, int index) {
+void func::removeElement(SportMatches*& arr, int& n, int index) {
     if (index < 0 || index >= n) {
         cout << "Index out of range." << endl;
         return;
@@ -159,13 +159,13 @@ void func::removeElement(SportMatches* arr, int& n, int index) {
     arr = newArr;
 }
 void func::edit(SportMatches* match) {
-    std::string newName;
+    string newName;
 
-    std::cout << "Enter new team name: ";
-    std::cin >> newName;
+    cout << "Enter new team name: ";
+    cin >> newName;
     match->setName(newName);
 
-    std::cout << "Match information updated successfully." << std::endl;
+    cout << "Match information updated successfully." << endl;
 }
 void func::addElemement(SportMatches*& arr, int& n, const SportMatches& newMatch) {
     SportMatches* newArr = new SportMatches[n + 1];

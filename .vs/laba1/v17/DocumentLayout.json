@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|solutionrelative:homework\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|solutionrelative:homework\\func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|solutionrelative:homework\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|solutionrelative:homework\\func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\SportMatches.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61142EAA-5039-4E56-B42E-416717974225}|homework\\homework.vcxproj|solutionrelative:homework\\SportMatches.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SportMatches.cpp",
+              "DocumentMoniker": "C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\SportMatches.cpp",
+              "RelativeDocumentMoniker": "homework\\SportMatches.cpp",
+              "ToolTip": "C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\SportMatches.cpp",
+              "RelativeToolTip": "homework\\SportMatches.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-15T19:07:58.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,33 +53,33 @@
               "RelativeDocumentMoniker": "homework\\func.h",
               "ToolTip": "C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\func.h",
               "RelativeToolTip": "homework\\func.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-15T14:37:12.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\main.cpp",
               "RelativeDocumentMoniker": "homework\\main.cpp",
               "ToolTip": "C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\main.cpp",
               "RelativeToolTip": "homework\\main.cpp",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAawFUAAAANAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAawCcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-08T14:32:42.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "func.cpp",
               "DocumentMoniker": "C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\func.cpp",
               "RelativeDocumentMoniker": "homework\\func.cpp",
               "ToolTip": "C:\\Users\\sia20\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C\u002B\u002B\\laba1\\homework\\homework\\func.cpp",
               "RelativeToolTip": "homework\\func.cpp",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAawK8AAAARAAAA",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAALEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-08T14:30:40.299Z",
               "EditorCaption": ""
