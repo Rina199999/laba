@@ -41,6 +41,8 @@ int main() {
             int index;
             cin >> index;
             removeElement(arr, n, index);
+            if (arr)
+                save(arr, n);
             break;
         }
         case 6: {
